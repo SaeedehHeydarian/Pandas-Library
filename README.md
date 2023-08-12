@@ -1,5 +1,5 @@
 # Pandas-Library
- ****pandas is a powerful library that provides data structures and functions for efficiently manipulating and analyzing structured data. It's widely used in data analysis and data science tasks. Here's a brief overview of some of the key features and concepts in pandas****
+pandas is a powerful library that provides data structures and functions for efficiently manipulating and analyzing structured data. It's widely used in data analysis and data science tasks. Here's a brief overview of some of the key features and concepts in pandas
  if you want more information check out the official website of pandas["here"]("https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html")
  
 ## Titanic Dataset Analysis using Pandas Library
